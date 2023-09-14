@@ -1,2 +1,2 @@
-# bocks
-Manda um jab
+# bockz
+Manda o jab
